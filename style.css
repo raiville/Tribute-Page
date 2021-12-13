@@ -1,9 +1,20 @@
 * {
     margin: 0px;
     padding: 0px;
+    background-color: rgb(245, 245, 180);
 }
 
-.header {
-    padding-top: 50px;
+#main #title {
+    font-family: Helvetica;
     text-align: center;
+    padding-top: 40px;
+}
+
+#main #title p {
+    padding-top: 30px;
+    font-weight: lighter;
+}
+
+.white-box{
+    background-color: white;
 }
